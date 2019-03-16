@@ -18,7 +18,7 @@ public interface ITest {
     }
 
     /**
-     *
+     * test3
      */
     default void test3(){
         System.out.println("[method:test3]");
